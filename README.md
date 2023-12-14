@@ -40,5 +40,3 @@ The application provides speech feedback using the `pyttsx3` library, allowing t
 Special thanks to the contributors of OpenCV, MediaPipe, TensorFlow, and Streamlit for providing the essential tools and libraries for the successful implementation of this sign language detection project.
 
 ---
-
-Feel free to further customize the README based on your specific details and additional information you'd like to include.

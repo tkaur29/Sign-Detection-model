@@ -8,7 +8,7 @@ This project implements a real-time sign language detection model using OpenCV, 
 
 ### Model Architecture
 
-The deep learning model is a Sequential neural network with LSTM layers for capturing temporal dependencies. It is trained to recognize specific sign language gestures related to common actions like 'hello', 'thanks', and 'iloveyou'. The model architecture includes LSTM layers followed by densely connected layers.
+The DL model is a Sequential neural network with LSTM layers for capturing temporal dependencies. It is trained to recognize specific sign language gestures related to common actions like 'hello', 'thanks', and 'iloveyou'. The model architecture includes LSTM layers followed by densely connected layers.
 
 ### Real-time Detection
 
